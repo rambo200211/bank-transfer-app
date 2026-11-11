@@ -9,7 +9,7 @@ Demonstrates:
 ## Run
 1. Start MySQL (XAMPP -> MySQL -> Start). The database `bank_db` is created automatically.
 2. `./mvnw spring-boot:run`  (Windows: `mvnw.cmd spring-boot:run`)
-3. Open http://localhost:8080  (3 sample customers are created on first start)
+3. Open http://localhost:8082  (3 sample customers are created on first start)
 
 If your MySQL root user has a password, copy `secrets.properties.example` to `secrets.properties` and edit it.
 "# Assignment_Grading" 
